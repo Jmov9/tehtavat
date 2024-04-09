@@ -2,6 +2,4 @@ title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
 theme: jekyll-theme-cayman
 
-header_pages:
-- vko1.html
-- vko2.md
+
