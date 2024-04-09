@@ -3,5 +3,5 @@ description: Tervetuloa sivustolle!
 theme: jekyll-theme-cayman
 
 header_pages:
-- index.md
+- vko1.html
 - vko2.md
